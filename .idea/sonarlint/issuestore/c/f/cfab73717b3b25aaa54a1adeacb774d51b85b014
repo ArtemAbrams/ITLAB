@@ -1,0 +1,14 @@
+
+ˆ	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(™¼Åó8¨–§2J$5fc93561-ab86-4e46-a67a-3d18e010161e
+ˆ	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(¼ËÍÓ8«–§2J$bb473ddc-7b6b-4f22-93d6-562d12874892
+ˆ	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ş„Õ8¬–§2J$e875624e-39db-490f-aecf-87af7d1c47eb
+ˆ	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(ğŞ¸“8®–§2J$f430d629-2bfa-44e7-b3f3-54fbf61d4798
+ˆ	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(™¼Åó8°–§2J$8c9577c4-0a6a-4dfe-9fb9-3c668972aef1
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(¿ÒÉ½ıÿÿÿÿ8Ì—Ğ–§2
+h	java:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(çäÒûüÿÿÿÿ8Ï—Ğ–§2
+h	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(ëÏª±şÿÿÿÿ8Ï—Ğ–§2
+•
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(æÃı‘8ØŸ–§2J$80d25302-62f9-493b-808c-3b9f05a8d2f2
+r	java:S106:"+Replace this use of System.out by a logger.(©ßıÆıÿÿÿÿ8åŸ–§2J$cb00ade4-89db-4172-98e6-5bd22ac24e44
+‰
+java:S65419"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 81 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 26 to 6.(æÃı‘8Ô –§2J$8cb46217-f8cf-4505-9eed-e6a12abb4fb7

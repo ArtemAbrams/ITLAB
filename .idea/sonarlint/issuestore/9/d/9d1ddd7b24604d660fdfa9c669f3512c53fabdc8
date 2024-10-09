@@ -1,0 +1,25 @@
+
+ˆ	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤8”¤®–§2J$762236af-0c45-4de4-870c-40ea9b067c36
+ˆ	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(·İ¿Ô8•¤®–§2J$a15d79be-da8d-4e67-b125-7b6640a11539
+ˆ	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(¹Âİ­8™¤®–§2J$1dc57c82-737d-495b-8f3d-67eb3cf6fbbd
+	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(·Ë£Æıÿÿÿÿ8™¤®–§2J$4102541e-fdf1-4f4b-914b-0eb14b1d9b6a
+ˆ	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼8š¤®–§2J$9e1e70e0-ad97-4ec3-93dd-0d97b9903e8a
+	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Æü£¯ùÿÿÿÿ8›¤®–§2J$a8d91b82-43ce-4f64-ac20-c37cde47e7eb
+ˆ	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚8œ¤®–§2J$88e0d670-f0e9-42b4-ad8b-fe522f581d75
+	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿ8œ¤®–§2J$1428b42e-99d4-4bd5-9675-6fe4e19cdf4d
+ˆ	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(±µ—Ü8¤®–§2J$7843cc77-9314-4876-8777-ec5b260bf5cb
+ˆ	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚8¤®–§2J$17ce6165-d985-4154-9e82-be9a922e06a1
+	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿ8ÖŒ¯–§2J$3c19cdd9-ed58-42d3-98c7-a076bdb97c47
+	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(ü‚¾Çùÿÿÿÿ8×Œ¯–§2J$6459dd03-8de7-45ed-8f61-2f9576179f22
+	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿ8Ü­¯–§2J$8ccb5615-6284-4599-b545-51d62feac06d
+	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºşÿÿÿÿ8é§Ñ–§2J$42af2c36-70a7-4098-8be3-281ece29a2fa
+™
+java:S1206Ç"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Ï¤®–§2J$21a83fb1-5e66-41de-9faa-5ebe9fd81739
+ƒ
+java:S1117Ÿ":Rename "column" which hides the field declared at line 23.(Æ•À”ûÿÿÿÿ8Í¥®–§2J$4074b20a-4698-43d9-a7a8-6ef54f32cea0
+O
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÚÜÑ–§2
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ÛÜÑ–§2
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ÛÜÑ–§2

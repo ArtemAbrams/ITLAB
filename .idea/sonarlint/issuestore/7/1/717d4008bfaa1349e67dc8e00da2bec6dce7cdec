@@ -1,0 +1,12 @@
+
+†	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(îƒ²ùÿÿÿÿJ$34ea4553-ff88-4ef8-8243-68f103abe61e
+	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Õ…ëùJ$5508ae6d-d42c-4d69-a666-0db7a92f62ef
+ˆ	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(ÁéÂú8¬´é–§2J$33d9acbe-6177-4ab1-bd5f-61b7243c2818
+	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(äØÿıÿÿÿÿ8¯´é–§2J$9bed6a29-e613-471a-982e-10b7e76395f3
+ˆ	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(£ùªÄ8²´é–§2J$f2e3ed48-e87f-4fe1-9c57-7f81961c1128
+Œ	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹÷ÖúJ$654ffc8b-b33a-44a1-a13b-7ecaa90955e3
+Œ	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şñøŒJ$92b669c1-2a16-4106-865f-f5db140fca5b
+´
+java:S11302"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(îƒ²ùÿÿÿÿ8‡Éé–§2J$19a12ca7-0bef-46c1-8fa2-c0a0bbe788dd
+
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( ™ƒ™J$07b39a0b-46fe-4883-b989-39174347c533

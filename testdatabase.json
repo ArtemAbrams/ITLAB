@@ -1,0 +1,63 @@
+{
+  "filePath": "D:\\java\\ITLABSArtem\\testdatabase.json",
+  "tables": {
+    "artemka": {
+      "name": "artemka",
+      "rows": [
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-27",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "1",
+              "column": "id"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "birth_date": {
+          "type": "DATE",
+          "name": "birth_date",
+          "nullAllowed": true
+        },
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        }
+      }
+    },
+    "artemka_v3": {
+      "name": "artemka_v3",
+      "rows": [
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-27",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "1",
+              "column": "id"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "birth_date": {
+          "type": "DATE",
+          "name": "birth_date",
+          "nullAllowed": true
+        },
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}
