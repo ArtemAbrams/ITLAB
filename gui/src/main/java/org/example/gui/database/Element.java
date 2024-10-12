@@ -3,21 +3,15 @@ package org.example.gui.database;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import java.io.Serializable;
-import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Objects;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 import static java.lang.Integer.parseInt;
 
 public class Element implements Serializable {
-    public static final BigDecimal MAX_MONEY = new BigDecimal("10000000000000.00");
 
     private String value;
     private String column;
@@ -69,7 +63,7 @@ public class Element implements Serializable {
         formatValue();
 
         List<Date> dateList = new ArrayList<>();
-        String[] dateValues = value.split(",");
+        String[] dateValues = value.split(" ");
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 
         for (String dateStr : dateValues) {
@@ -80,66 +74,12 @@ public class Element implements Serializable {
             }
         }
 
+        // 2004-02-18 2004-02-29
+        if (!dateList.get(0).before(dateList.get(1))) {
+            throw new Exception("Invalid date interval value");
+        }
+
         return dateList;
-    }
-
-    @JsonIgnore
-    public BigDecimal getAsMoney() throws Exception {
-        formatValue();
-
-        try {
-            Double.parseDouble(Objects.requireNonNull(value));
-        } catch(Exception e) {
-            throw new Exception("Invalid number format");
-        }
-
-        // Convert the string to BigDecimal
-        BigDecimal money = new BigDecimal(value);
-
-        // Check if the value exceeds the maximum allowed amount
-        if (money.compareTo(MAX_MONEY) > 0) {
-            throw new Exception("Value exceeds maximum allowed amount of $10,000,000,000,000.00");
-        }
-
-        // Format the value to the desired monetary string format
-        this.value = "$" + String.format("%,.2f", money); // Update the value to the formatted string
-
-        return money;
-    }
-
-    @JsonIgnore
-    public List<BigDecimal> getAsMoneyInv() throws Exception {
-        formatValue();
-        List<BigDecimal> moneyList = new ArrayList<>();
-
-        // Split the interval by semicolon
-        String[] moneyValues = value.split(";");
-
-        for (String moneyStr : moneyValues) {
-            moneyStr = moneyStr.trim();
-            moneyStr = moneyStr.replace("'", "");
-
-            try {
-                Double.parseDouble(moneyStr);
-            } catch(Exception e) {
-                throw new Exception("Invalid number format");
-            }
-
-            // Convert the string to BigDecimal
-            BigDecimal money = new BigDecimal(moneyStr);
-
-            // Check if the value exceeds the maximum allowed amount
-            if (money.compareTo(MAX_MONEY) > 0) {
-                throw new Exception("Value exceeds maximum allowed amount of $10,000,000,000,000.00");
-            }
-
-            // Add the valid money value to the list
-            moneyList.add(money);
-        }
-
-        this.value = moneyList.stream().map(m -> "$" + String.format("%,.2f", m)).collect(Collectors.joining(";"));
-
-        return moneyList;
     }
 
 
