@@ -1,0 +1,4 @@
+
+“	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌJ$6b4b8c5f-41c5-439c-a034-340831e6a939
+’
+java:S1104"QMake enums a static final constant or non-public and provide accessors if needed.(áŠ÷ªýÿÿÿÿJ$19d29b7f-7fc2-43a6-9f15-108d72446e0c

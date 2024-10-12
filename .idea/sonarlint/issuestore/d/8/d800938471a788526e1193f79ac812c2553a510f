@@ -1,0 +1,14 @@
+
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤
+[	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(·Ý¿Ô
+[	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(¹ÂÝ­
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(·Ë£Æýÿÿÿÿ
+[	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼
+[	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Æü£¯ùÿÿÿÿ
+`	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿ
+a	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºþÿÿÿÿ
+l
+java:S1206‹"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+U
+java:S1117c":Rename "column" which hides the field declared at line 17.(Æ•À”ûÿÿÿÿ

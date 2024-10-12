@@ -1,6 +1,97 @@
 {
   "filePath": "D:\\java\\ITLABSArtem\\testdatabase.json",
   "tables": {
+    "artemka_v4": {
+      "name": "artemka_v4",
+      "rows": [
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-27 2004-03-27 ",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "1",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-18 2004-02-25",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "2",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-18 2004-02-29",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "3",
+              "column": "id"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "birth_date": {
+          "type": "DATE_INV",
+          "name": "birth_date",
+          "nullAllowed": true
+        },
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        }
+      }
+    },
+    "artmka_v2": {
+      "name": "artmka_v2",
+      "rows": [
+        {
+          "elements": {
+            "id": {
+              "value": "1",
+              "column": "id"
+            },
+            "carw": {
+              "value": "123",
+              "column": "carw"
+            },
+            "element": {
+              "value": "a",
+              "column": "element"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        },
+        "carw": {
+          "type": "FLOAT",
+          "name": "carw",
+          "nullAllowed": true
+        },
+        "element": {
+          "type": "CHAR",
+          "name": "element",
+          "nullAllowed": true
+        }
+      }
+    },
     "artemka": {
       "name": "artemka",
       "rows": [
@@ -12,6 +103,18 @@
             },
             "id": {
               "value": "1",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-02-28",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "2",
               "column": "id"
             }
           }
@@ -41,6 +144,18 @@
             },
             "id": {
               "value": "1",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "birth_date": {
+              "value": "2004-03-29",
+              "column": "birth_date"
+            },
+            "id": {
+              "value": "2",
               "column": "id"
             }
           }

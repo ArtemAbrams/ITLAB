@@ -1,25 +1,14 @@
 
-ˆ	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤8”¤®–§2J$762236af-0c45-4de4-870c-40ea9b067c36
-ˆ	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(·İ¿Ô8•¤®–§2J$a15d79be-da8d-4e67-b125-7b6640a11539
-ˆ	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(¹Âİ­8™¤®–§2J$1dc57c82-737d-495b-8f3d-67eb3cf6fbbd
-	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(·Ë£Æıÿÿÿÿ8™¤®–§2J$4102541e-fdf1-4f4b-914b-0eb14b1d9b6a
-ˆ	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼8š¤®–§2J$9e1e70e0-ad97-4ec3-93dd-0d97b9903e8a
-	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(Æü£¯ùÿÿÿÿ8›¤®–§2J$a8d91b82-43ce-4f64-ac20-c37cde47e7eb
-ˆ	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚8œ¤®–§2J$88e0d670-f0e9-42b4-ad8b-fe522f581d75
-	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿ8œ¤®–§2J$1428b42e-99d4-4bd5-9675-6fe4e19cdf4d
-ˆ	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(±µ—Ü8¤®–§2J$7843cc77-9314-4876-8777-ec5b260bf5cb
-ˆ	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(›Ï‚‚8¤®–§2J$17ce6165-d985-4154-9e82-be9a922e06a1
-	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(ôˆÁ™ıÿÿÿÿ8ÖŒ¯–§2J$3c19cdd9-ed58-42d3-98c7-a076bdb97c47
-	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(ü‚¾Çùÿÿÿÿ8×Œ¯–§2J$6459dd03-8de7-45ed-8f61-2f9576179f22
-	java:S112£"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿ8Ü­¯–§2J$8ccb5615-6284-4599-b545-51d62feac06d
-	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºşÿÿÿÿ8é§Ñ–§2J$42af2c36-70a7-4098-8be3-281ece29a2fa
+ˆ	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(û·¾¤8£”é¯§2J$7f4158c6-ef86-482d-b82b-0dd54b8a8bb7
+ˆ	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(·İ¿Ô8¤”é¯§2J$c7907904-45bb-44d9-a416-9d1f2a74e0cf
+ˆ	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(¹Âİ­8¥”é¯§2J$52c0e321-7414-49da-89f3-6872bb3c06c6
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(·Ë£Æıÿÿÿÿ8¥”é¯§2J$286282b5-66d3-4c52-9c50-6156b6b3f2a1
+ˆ	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼8¦”é¯§2J$1c7849c4-547b-46e5-878a-623debd9c645
+ˆ	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(¶ë ¼8¦”é¯§2J$546b23be-12a6-4684-9536-9e3219cfdb33
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Æü£¯ùÿÿÿÿ8¦”é¯§2J$a54a185b-59a2-48b3-8973-ac3068647fb1
+	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(¦Üä¥ùÿÿÿÿ8§”é¯§2J$1c31a034-4787-4b50-a570-87a4d866b5c9
+	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(õ³ßºşÿÿÿÿ8§”é¯§2J$edc7755c-ab77-4e02-ae46-b6a058a03010
 ™
-java:S1206Ç"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Ï¤®–§2J$21a83fb1-5e66-41de-9faa-5ebe9fd81739
-ƒ
-java:S1117Ÿ":Rename "column" which hides the field declared at line 23.(Æ•À”ûÿÿÿÿ8Í¥®–§2J$4074b20a-4698-43d9-a7a8-6ef54f32cea0
-O
-java:S1128	"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÚÜÑ–§2
-Q
-java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ÛÜÑ–§2
-V
-java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ÛÜÑ–§2
+java:S1206‹"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Ñ”é¯§2J$e6f2a4d3-b3ff-46f6-b1c5-325394865a89
+‚
+java:S1117c":Rename "column" which hides the field declared at line 17.(Æ•À”ûÿÿÿÿ8ç”é¯§2J$cb0642cb-ef7d-4792-92c3-1198666acc58

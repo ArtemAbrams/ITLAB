@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ITLABSArtem.iml" filepath="$PROJECT_DIR$/ITLABSArtem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gui.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gui.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webs/webs.iml" filepath="$PROJECT_DIR$/webs/webs.iml" />
     </modules>
   </component>
 </project>
